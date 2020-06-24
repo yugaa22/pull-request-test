@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     run: nginx
-  name: nginx-yugaa-test-1
+  name: nginx-yug
 spec:
   replicas: 1
   selector:
